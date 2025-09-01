@@ -12,7 +12,7 @@
    - Uso de flexbox para centralizar os conteúdos
    - Altura mínima da tela inteira */
 body {
-    background-image: url(./imagens/matrix-background.gif);
+    background-image: url(./assets/css/imgs/matrix-background.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
